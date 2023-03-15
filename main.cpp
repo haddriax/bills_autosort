@@ -11,6 +11,7 @@ int main()
     autoSorter.SetMonth(3);
     autoSorter.SetYear(2023);
     autoSorter.SetScanLocation("C:\\Users\\gael-\\Documents\\Dev\\Sandbox");
+    autoSorter.LookForFiles();
 
     return 0;
 }

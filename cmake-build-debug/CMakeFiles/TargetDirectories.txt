@@ -1,0 +1,3 @@
+C:/Users/gael-/CLionProjects/bills_autosort/cmake-build-debug/CMakeFiles/bills_autosort.dir
+C:/Users/gael-/CLionProjects/bills_autosort/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gael-/CLionProjects/bills_autosort/cmake-build-debug/CMakeFiles/rebuild_cache.dir

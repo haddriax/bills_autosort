@@ -38,7 +38,7 @@ namespace FileSorter
         std::list<char*> sortedFiles;
 
         // Scan each file inside the folder.
-        void ScanFolder(const char *folder);
+        int ScanFolder(const char *folder);
 
         // Get more data about the file.
         int ProcessFile(const WIN32_FIND_DATAA& data);
@@ -48,10 +48,13 @@ namespace FileSorter
 
         void CopyFiles();
 
+        void LogSortedFiles();
+
     public:
         void SetMonth(int month);
         void SetYear(int year);
-        void SetScanLocation(char* scanLocation);
+        void SetScanLocation(char* _scanLocation);
+        void LookForFiles();
     };
 
 } // FileSorter

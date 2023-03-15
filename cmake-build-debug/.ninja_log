@@ -1,0 +1,15 @@
+# ninja log v5
+0	113	7004111420890360	build.ninja	f6d15c627390d737
+6	879	7005777319562815	CMakeFiles/bills_autosort.dir/main.cpp.obj	ccdc4187413ffb84
+1394	1481	7005780240216300	bills_autosort.exe	7ce26d81bb2f38da
+2	1393	7005780239360565	CMakeFiles/bills_autosort.dir/AutoSorter.cpp.obj	6602dab93b541713
+3	1605	7005780471138088	CMakeFiles/bills_autosort.dir/AutoSorter.cpp.obj	6602dab93b541713
+1605	1687	7005780471938771	bills_autosort.exe	7ce26d81bb2f38da
+3	1022	7005781864967491	CMakeFiles/bills_autosort.dir/main.cpp.obj	ccdc4187413ffb84
+7	1684	7005781871578165	CMakeFiles/bills_autosort.dir/AutoSorter.cpp.obj	6602dab93b541713
+1684	1772	7005781872446399	bills_autosort.exe	7ce26d81bb2f38da
+2	853	7005781993810778	CMakeFiles/bills_autosort.dir/main.cpp.obj	ccdc4187413ffb84
+5	1471	7005781999981078	CMakeFiles/bills_autosort.dir/AutoSorter.cpp.obj	6602dab93b541713
+1471	1556	7005782000811791	bills_autosort.exe	7ce26d81bb2f38da
+2	780	7005782053030477	CMakeFiles/bills_autosort.dir/main.cpp.obj	ccdc4187413ffb84
+781	863	7005782053823969	bills_autosort.exe	7ce26d81bb2f38da
